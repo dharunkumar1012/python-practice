@@ -1,0 +1,17 @@
+name = str(input("Enter your name: "))
+reg_no = int(input("Enter your register no: "))
+mark_10th = int(input("Enter your 10th mark: "))
+mark_12th = int(input("Enter your 12th mark: "))
+dept = str(input("Enter your department name: "))
+
+print(name)
+print(reg_no)
+print(mark_10th)
+print(mark_12th)
+print(dept)
+
+print(type(name))
+print(type(reg_no))
+print(type(mark_10th))
+print(type(mark_12th))
+print(type(dept))
