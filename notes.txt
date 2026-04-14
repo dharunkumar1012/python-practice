@@ -1,0 +1,7 @@
+Welcome to python file handling!
+ This is new file
+Adding a new line.
+
+linlin, 
+shanks,
+kaido

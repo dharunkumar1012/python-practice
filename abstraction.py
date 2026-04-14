@@ -1,3 +1,4 @@
+
 from abc import ABC, abstractmethod
 #There is no use of creating object for abstractmethod class:
 class Parent(ABC):
