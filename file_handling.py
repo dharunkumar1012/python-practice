@@ -27,7 +27,9 @@ with open("notes.txt", "r") as file:
         print(line.strip())
 '''
 # User input
+'''
 feedback = input("Enter your feedback:")
-with open("feedback_log.txt", "a") as f:
-    f.write(feedback + "\n")
-print("Thanks for your feedback.")
+with open("feedback_log.txt", "a") as log:
+    log.write(feedback + "\n")
+print("Thank you and your feedback is saved.")
+'''
